@@ -1,0 +1,44 @@
+label {
+    color: orange;
+}
+
+.page {
+	border: solid thick orange;
+	width: 80%;
+	margin: 0 auto;
+	padding: 2% 5%;
+}
+
+
+.genre-select {
+	width: 100%;
+}
+
+.book-details  h2 {
+	color: orange;
+}
+
+.book-details .description {
+	margin-left: 4%;
+	text-align: justify;
+}
+
+.book-details .controls {
+	margin-left: 4%;
+}
+
+.controls div {
+	float:right;
+}
+
+.controls {
+	overflow: hidden;
+}
+
+.last {
+	margin-top: 120px;
+}
+
+#hidden {
+	visibility: hidden;
+}

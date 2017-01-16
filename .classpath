@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.0/lib/jsp-api.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.0/lib/servlet-api.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/miniprojectmentor/MiniProject/BookReview/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/miniprojectmentor/MiniProject/BookReview/lib/junit4.jar"/>
+	<classpathentry kind="lib" path="D:/miniprojectmentor/MiniProject/BookReview/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/miniprojectmentor/MiniProject/BookReview/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="D:/miniprojectmentor/MiniProject/BookReview/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
